@@ -28,6 +28,25 @@ Currently, I'm focusing on improving my programming skills, building full-stack 
 - Git & GitHub
 - VS Code
 
+
+##  Tech Stack
+
+**Building With**
+<br>
+HTML • CSS • JavaScript
+
+**Programming**
+<br>
+C++ • Java • Python (Learning)
+
+**Developer Tools**
+<br>
+Git • GitHub • VS Code
+
+**Exploring**
+<br>
+Backend Development • APIs • Full-Stack Development
+
 ---
 
 ##  What I'm Working On
